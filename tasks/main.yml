@@ -1,2 +1,2 @@
 - name: Running Apache related tasks
-  command: sleep 15
+  command: sleep 10
